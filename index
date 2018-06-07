@@ -1,0 +1,1084 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    
+<head>
+        <meta charset="utf-8">
+        <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+        <title>INNOVATE - ADHESIVOS & PUBLICIDAD</title>
+        <meta name="keywords" content="publicidad interior y exterior, decoraci�n veh�cular, polarizados, impresion digital, se�alizaci�n, calcoman�as siliconadas, 			vinilos adhesivos, reflectivos, polarizados, carbonos, �pticos, l�mina imanada">
+		<meta name="description" content="INNOVATE - Somos una empresa din�mica dedicada a el dise�o, producci�n e instalaci�n de productos y servicios publicitarios. 				Satisfacemos las necesidades de nuestros Clientes con ideas innovadoras y pr�cticas. Contamos con un Recurso Humano preparado para el logro de sus objetivos.">
+        <meta name="viewport" content="width=device-width">
+				<script type="text/javascript">
+         if(top != self) {
+            window.open(self.location.href, '_top');
+        }
+        </script>
+
+
+
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="font/zocial.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/fresco.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/responsive.css">
+
+        <!--[if lt IE 9]>
+            <script src="js/vendor/html5-3.6-respond-1.1.0.min.js"></script>
+        <![endif]-->
+        <!--[if !IE]>
+        <link rel="stylesheet" type="text/css" href="css/noie.css">
+        <![endif]-->
+    </head>
+    <body>
+ 
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+
+        <!-- ========== HEADER ========== -->
+        <header id="carousel" class="parallax">
+            
+            <div class="container text-center">
+            
+                <!-- === MAINLOGO === -->
+                
+                <div class="main-logo">
+                    <a href="" class=""><img src="images/innovate-logo2.png" alt="Innovate" ></a>
+                </div>
+
+            <!-- === NAV BOXES === -->
+            <div id="nav-boxes">
+                    <div class="box-table">
+                        <a class="menu-1" href="#about-us">
+                            <div class="fs1 li_user" aria-hidden="true"></div>
+                            <span>Nosotros</span>
+                        </a>
+                        <a class="menu-2" href="#portfolio">
+                            <div class="fs1 li_photo" aria-hidden="true"></div>
+                            <span>Galer�a</span>
+                        </a>
+                            <a class="menu-3" href="#services">
+                                <div class="fs1 li_pen" aria-hidden="true"></div>
+                                <span>Servicios</span>
+                            </a>
+                        <a class="menu-4" href="#blackbox">
+                            <div class="fs1 li_mail" aria-hidden="true"></div>
+                            <span>Cont�cto</span>
+                        </a>
+                    </div>
+            </div>
+
+            <!-- === TEXT ROTATOR === -->
+                <div class="anim-delay animated fadeIn">
+                    <div class="content-rotator">
+                        <div class="inbox">
+                            Impresi�n Digital
+                        </div>
+                        <div class="inbox">
+                            Avisos y Publicidad Exterior
+                        </div>
+                        <div class="inbox">
+                            Decoraci�n de Vehiculos
+                        </div>
+                        <div class="inbox">
+                            Calcomanias, Plotter de Corte
+                        </div>
+                        <div class="inbox">
+                            Se�ales y Vinilos Adhesivos
+                        </div>
+                        <div class="inbox">
+                            Polarizados
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+
+        <!-- ========= STICKY ========== -->
+        <section class="sticky">
+            <section class="stickybox">
+                <div class="container">
+                    <div class="logo pull-left">
+                        <a href="#carousel"><img src="images/logo2.png" alt="logo" /></a>
+                    </div>
+                    <div id="nav" class="pull-right">
+                        <ul class="nav unstyled">
+                            <li class="menu-1"><a href="#about-us"><div class="fs2 li_user" aria-hidden="true"></div>Nosotros</a></li>
+                            <li class="menu-2"><a href="#portfolio"><div class="fs2 li_photo" aria-hidden="true"></div>Galer�a</a></li>
+                            <li class="menu-3"><a href="#services"><div class="fs2 li_pen" aria-hidden="true"></div>Servicios</a></li>
+                            <li class="menu-4"><a href="#contact"><div class="fs2 li_mail" aria-hidden="true"></div>Cont�cto</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </section>
+
+        
+
+        <!-- ========= PAGES ========== -->
+        <section id="pages" data-spy="scroll" data-target="#nav">
+
+            <!-- ========== ABOUT US ========== -->
+            <section id="about-us" class="parallax">
+                <div class="container">
+    
+                    <h1 class="text-center">Nosotros...Innovate Publicidad</h1>
+             
+                    <div class="intro-text">
+                        Somos una empresa din�mica dedicada a el dise�o producci�n<br>
+                        e instalaci�n de productos y servicios publicitarios. Satisfacemos<br>
+                        las necesidades de nuestros Clientes con ideas innovadoras y pr�cticas.<br>
+                        Contamos con un Recurso Humano preparado para el logro de sus objetivos.
+                    </div>
+            
+                    <div class="our_team">
+                        <div class="member text-center">
+                            <img alt="" src="images/dummy.png" data-original="images/team_1a.jpg" class="ll">
+                            <h4>MISI�N</h4>
+                            <span class="pos">Consolidar nuestro liderazgo en el mercado publicitario, al ofrecer soluciones innovadoras y rentables a nuestros clientes; cultivando una relaci�n de confianza, respaldo, credibilidad y compromiso a largo plazo.</span>
+                        </div>
+                        <div class="member text-center">
+                            <img alt="" src="images/dummy.png" data-original="images/team_4a.jpg" class="ll">
+                            <h4>VISI�N</h4>
+                            <span class="pos">Seremos  una empresa que para en el a�o 2016 alcanzaremos  metas de amplitud y mejoramiento comercial para asi brindar mayor comodidad y respaldo a nuestros clientes, extenderemos nuestro mercado a nivel nacional brindando productos de calidad.</span>
+                        </div>
+                        <div class="member text-center">
+                            <img alt="" src="images/dummy.png" data-original="images/team_1.jpg" class="ll">
+                            <h4>POL�TICAS DE C�LIDAD</h4>
+                            <span class="pos">Satisfacer los requisitos de nuestros clientes, ofreciendo productos y servicios editoriales con calidad y oportunidad, mejorando continuamente  la eficacia, eficiencia y efectividad de los Sistemas de Gesti�n, con responsabilidad social, generando beneficios para la empresa, el Estado y la ciudadan�a.</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ========== TESTIMONIAL BOX ========== -->
+          
+
+            <!-- =========== PORTFOLIO =========== -->
+            <section id="portfolio" class="parallax">
+                <div class="container">
+                    <h1 class="text-center" padding="25px";>Galer�a de Trabajos</h1>
+                    <div class="intro-text text-center">
+                        Estos son algunos de nuestros trabajos.
+                    </div>
+                    <section id="options" class="clearfix">
+                        <a href="#" class="pull-right" id="trigger_portfolio"><i class="icon-reorder"></i></a>
+                        <ul id="filters" class="unstyled inline option-set clearfix pull-left" data-option-key="filter">
+                            <li><a class="filter selected" data-option-value="*"><i class="icon-th"></i><span>Todo</span></a></li>
+                            <li><a class="filter" data-option-value=".branding"><i class="icon-truck"></i><span>Decoraci�n Veh�cular</span></a></li>
+                            <li><a class="filter" data-option-value=".design"><i class="icon-warning-sign"></i><span>Se�alizaci�n</span></a></li>
+                            <li><a class="filter" data-option-value=".motion"><i class="icon-picture"></i><span>Publicidad Interior y Exterior</span></a></li>
+                            <li><a class="filter" data-option-value=".websites"><i class="icon-umbrella"></i><span>Polarizados</span></a></li>                       
+                        </ul>
+                    </section> <!-- #options -->
+                    <div id="container">
+ 
+                            <div class="mix motion">
+                                <img alt="" src="images/preview1.jpg" data-original="images/port1.jpg" class="lp">
+                                <div class="over">
+                                        <a href="images/port1.jpg" class="fresco zoom" data-fresco-group="mix">
+                                            <i class="icon-plus icon-2x"></i>
+                                        </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design">
+                                <img alt="" src="images/preview2.jpg" data-original="images/port2.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port2.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design">
+                                <img alt="" src="images/preview3.jpg" data-original="images/port3.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port3.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design websites">
+                                <img alt="" src="images/preview4.jpg" data-original="images/port4.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port4.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites">
+                                <img alt="" src="images/preview5.jpg" data-original="images/port5.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port5.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites">
+                                <img alt="" src="images/preview6.jpg" data-original="images/port6.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port6.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview7.jpg" data-original="images/port7.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port7.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview8.jpg" data-original="images/port8.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port8.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix design">
+                                <img alt="" src="images/preview9.jpg" data-original="images/port9.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port9.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix design">
+                                <img alt="" src="images/preview10.jpg" data-original="images/port10.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port10.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix design">
+                                <img alt="" src="images/preview11.jpg" data-original="images/port11.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port11.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview12.jpg" data-original="images/port12.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port12.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview13.jpg" data-original="images/port13.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port13.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix design motion">
+                                <img alt="" src="images/preview14.jpg" data-original="images/port14.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port14.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design">
+                                <img alt="" src="images/preview15.jpg" data-original="images/port15.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port15.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix design motion">
+                                <img alt="" src="images/preview16.jpg" data-original="images/port16.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port16.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites">
+                                <img alt="" src="images/preview17.jpg" data-original="images/port17.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port17.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites">
+                                <img alt="" src="images/preview18.jpg" data-original="images/port18.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port18.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview19.jpg" data-original="images/port19.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port19.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding">
+                                <img alt="" src="images/preview20.jpg" data-original="images/port20.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port20.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites">
+                                <img alt="" src="images/preview21.jpg" data-original="images/port21.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port21.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites">
+                                <img alt="" src="images/preview22.jpg" data-original="images/port22.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port22.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites">
+                                <img alt="" src="images/preview23.jpg" data-original="images/port23.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port23.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites">
+                                <img alt="" src="images/preview24.jpg" data-original="images/port24.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port24.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview25.jpg" data-original="images/port25.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port25.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview26.jpg" data-original="images/port26.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port26.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview27.jpg" data-original="images/port27.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port27.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix design motion">
+                                <img alt="" src="images/preview28.jpg" data-original="images/port28.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port28.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix design">
+                                <img alt="" src="images/preview29.jpg" data-original="images/port29.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port29.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix design motion">
+                                <img alt="" src="images/preview30.jpg" data-original="images/port30.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port30.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview31.jpg" data-original="images/port31.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port31.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix design motion">
+                                <img alt="" src="images/preview32.jpg" data-original="images/port32.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port32.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview33.jpg" data-original="images/port33.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port33.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix websites">
+                                <img alt="" src="images/preview34.jpg" data-original="images/port34.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port34.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview35.jpg" data-original="images/port35.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port35.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview36.jpg" data-original="images/port36.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port36.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview37.jpg" data-original="images/port37.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port37.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview38.jpg" data-original="images/port38.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port38.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding">
+                                <img alt="" src="images/preview39.jpg" data-original="images/port39.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port39.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding">
+                                <img alt="" src="images/preview40.jpg" data-original="images/port40.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port40.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding">
+                                <img alt="" src="images/preview41.jpg" data-original="images/port41.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port41.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding">
+                                <img alt="" src="images/preview42.jpg" data-original="images/port42.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port42.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview43.jpg" data-original="images/port43.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port43.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview44.jpg" data-original="images/port44.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port44.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design">
+                                <img alt="" src="images/preview45.jpg" data-original="images/port45.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port45.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design">
+                                <img alt="" src="images/preview46.jpg" data-original="images/port46.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port46.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design">
+                                <img alt="" src="images/preview47.jpg" data-original="images/port47.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port47.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview48.jpg" data-original="images/port48.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/preview48.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview49.jpg" data-original="images/port49.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port49.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview50.jpg" data-original="images/port50.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port50.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview51.jpg" data-original="images/port51.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port51.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview52.jpg" data-original="images/port52.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port52.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview53.jpg" data-original="images/port53.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port53.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview54.jpg" data-original="images/port54.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port54.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix websites">
+                                <img alt="" src="images/preview55.jpg" data-original="images/port55.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port55.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix websites">
+                                <img alt="" src="images/preview56.jpg" data-original="images/port56.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port56.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview57.jpg" data-original="images/port57.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port57.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview58.jpg" data-original="images/port58.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port58.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites design">
+                                <img alt="" src="images/preview59.jpg" data-original="images/port59.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port59.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites design">
+                                <img alt="" src="images/preview60.jpg" data-original="images/port60.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port60.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites design">
+                                <img alt="" src="images/preview61.jpg" data-original="images/port61.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port61.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview62.jpg" data-original="images/port62.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port62.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding motion">
+                                <img alt="" src="images/preview63.jpg" data-original="images/port63.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port63.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design">
+                                <img alt="" src="images/preview64.jpg" data-original="images/port64.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port64.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding websites">
+                                <img alt="" src="images/preview65.jpg" data-original="images/port65.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port65.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview66.jpg" data-original="images/port66.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port66.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview67.jpg" data-original="images/port67.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port67.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding">
+                                <img alt="" src="images/preview68.jpg" data-original="images/port68.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port68.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design">
+                                <img alt="" src="images/preview69.jpg" data-original="images/port69.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port69.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix branding design">
+                                <img alt="" src="images/preview70.jpg" data-original="images/port70.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port70.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix motion">
+                                <img alt="" src="images/preview71.jpg" data-original="images/port71.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port71.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mix websites branding motion">
+                                <img alt="" src="images/preview72.jpg" data-original="images/port72.jpg" class="lp">
+                                <div class="over">
+                                    <a href="images/port72.jpg" class="fresco zoom" data-fresco-group="mix">
+                                        <i class="icon-plus icon-2x"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                    </div>
+                </div>
+            </section>
+
+            <!-- ========== STEP BOX ========== -->
+            <section id="testimonial" class="inverse">
+                <div class="container">
+                    <div class="testimonial-container">
+                    	<h1 class="text-center">Nuestros Clientes</h1>
+                        <div class="cycle-slideshow testimonial-box">
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa1.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">Cotranscol,</span> <br>
+                                    <p>Transportadora.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa2.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">Nestor Monsalve s.a.s.,</span> <br>
+                                    <p>Constructora.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa3.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">Motoreste,</span> <br>
+                                    <p>Concesionarios.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa4.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">El Guamito,</span> <br>
+                                    <p>Av�cola.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa5.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">Incolvit,</span> <br>
+                                    <p>Vidrieria Industrial.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa6.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">Prevesa,</span> <br>
+                                    <p>Concretos.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa7.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">KENWORTH,</span> <br>
+                                    <p>Kenworth.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa8.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">Granados,</span> <br>
+                                    <p>Droguer�as.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa9.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">Perseus,</span> <br>
+                                    <p>Distribuciones.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <div class="row-fluid">
+                                <div class="span3">
+                                    <img alt="" src="images/empresa10.jpg" width="75" height="75">
+                                </div>
+                                <div class="span9">
+                                    <span class="name">Mundo Mascota,</span> <br>
+                                    <p>Veterinaria.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                        <div id="prev"><img src="images/prev.png" alt=""></div>
+                        <div id="next"><img src="images/next.png" alt=""></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ========== SERVICES ========== -->
+            <section id="services" class="parallax">
+                <div class="container">
+                    <h1 class="text-center">Servicios y Productos</h1>
+                    <div class="row-fluid services">
+                        <div class="member span3">
+                       		<img alt="" src="images/services_1.jpg">
+                            <h3><i class="icon-truck circ"></i>Decoraci�n Veh�cular</h3>
+                            <div class="serv_exc text-left">
+                                Ofrecemos una amplia gama de decoraciones y dise�os  para veh�culos en material reflectivo, vinilo  y polarizados de excelentes marcas 											reconocidas e importadas  como: 3M, Avery, SolarDiamond. Decoraci�n  de Carro tanques, Cisternas, Estacas, Tracto camiones, Camiones de carga y veh�culos de Servicio P�blico: Busetas escolares y Transporte de personal, Taxis del �rea metropolitana e intermunicipal.
+
+                            </div>
+                        </div>
+                        <div class="member span3">
+                        	<img alt="" src="images/services_2.jpg">
+                            <h3><i class="icon-warning-sign circ"></i>Se�alizaci�n</h3>
+                            <div class="serv_exc text-left">
+                                Contamos con cat�logos para toda clase de se�alizaci�n Industrial, Institucional, Empresarial, Nomenclatura y Vial, con las respectivas medidas y colores tal como la normatividad vigente lo exige.
+                            </div>
+                        </div>
+                        <div class="member span3">
+                        	<img alt="" src="images/services_3.jpg">
+                            <h3><i class="icon-picture circ"></i>Publicidad Int/Ext</h3>
+                            <div class="serv_exc text-left">
+                                Fabricamos Vallas, Avisos (Luminosos, Led, Acr�licos) y Rompe Tr�ficos,  sobre cualquier estructura met�lica con excelentes est�ndares de calidad, contamos con la mejor imagen en impresi�n digital 1440 dpi de tintas l�tex ecol�gicas, que permiten decorar su Fachada, Oficinas y Vitrinas Comerciales con diversos Foto murales , Vinilos Decorativos y Dise�os personalizados en Vinilo Esmerilado.
+                            </div>
+                        </div>
+                        <div class="member span3">
+                        	<img alt="" src="images/services_4.jpg">
+                            <h3><i class="icon-umbrella circ"></i>Polarizados</h3>
+                            <div class="serv_exc text-left">
+                                Tenemos personal capacitado para instalar pel�culas de seguridad y pel�culas con filtros UV importados para protecci�n solar (polarizados) que brinden mayor privacidad en su veh�culo oficina, casa y apartamento.
+                            </div>
+                    </div>
+                    <div class="info-box pull-left">
+                        <div class="member2 span9">
+                        	<img alt="" src="images/services_5a.png">
+                            <h3><i class="icon-print circ"></i>Impresi�n Digital</h3>
+                            <p>Realizamos impresi�n digital gran formato de alta definici�n, profesional con tintas eco solventes para exteriores, resistentes al agua y a los rayos uv, con una resoluci�n real de 1440 dpi.</p>
+                            <p>Aplicaciones: Pendones, posters, Vallas, Pasacalles, Floor Graphic, Murales, Stickers, Afiches, Backings, Cajas de Luz, Rotulaci�n de veh�culos, Se�alizaci�n, etc. </p>
+                        </div>
+                        <div class="member span3">
+                        	<img alt="" src="images/services_6.jpg">
+                            <h3><i class="icon-tasks circ"></i>Venta y Distribuci�n:</h3>
+                            <ul class="arrow">
+                                <li>Polarizados</li>
+
+                                <li>Vinilos Adhesivos</li>
+
+                                <li>Vinilos Reflectivos</li>
+
+                                <li>Carbonos</li>
+
+                                <li>Stickers</li>
+
+                                <li>Calcomanias Siliconadas</li>
+
+                                <li>Lamina Imanada</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+<!-- ========== POST-SERVICE BOX ========== -->
+              <section id="blackbox" class="step-boxes inverse parallax">
+                <div class="container">
+                    <div class="row-fluid">
+                        <div class="span3 step-box">
+                            <h3><span class="num">UNO</span> Cont�ctanos</h3>
+                            <div class="box-exc">
+                                Dinos tu necesidad, estamos para ayudarte.
+                            </div>
+                        </div>
+                        <div class="span3 step-box">
+                            <h3><span class="num">DOS</span> Asesorate con Nosotros</h3>
+                            <div class="box-exc">
+                                Somos los mejores y sabemos como ajustarnos a tu presupuesto.
+                            </div>
+                        </div>
+                        <div class="span3 step-box">
+                            <h3><span class="num">TRES</span> Analiza Nuestra Propuesta</h3>
+                            <div class="box-exc">
+                                Ser� creativa y personalizada, justo lo que quieres transmitir.
+                            </div>
+                        </div>
+                        <div class="span3 step-box">
+                            <h3><span class="num">CUATRO</span> Cerremos Negocios</h3>
+                            <div class="box-exc">
+                                Garantizamos nuestro trabajo, siempre damos buenos resultados.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ========== CONTACT US ========== -->
+            <section id="contact" class="parallax">
+                <div class="container">
+                    <h1 class="text-center">Contacta con Nosotros</h1>
+                    <div class="dot-bg"></div>
+                    <div class="row-fluid">
+                        <div class="span6 offset3">
+                            <h3>Escr�benos</h3>
+                            <p class="light">Su cuenta de correo no ser� publicada. Todos los campos son requeridos <span class="mstar">*</span></p>
+                            
+                            <form id="cfmailer" method="post">
+							<div>
+								<div  class="wrapper">
+									<label>Nombre<span class="star">*</span></label>
+                                    									<input type="text" class="span12" name="nombre" value=''>
+								</div>
+								<div  class="wrapper">
+									<label>Empresa<span class="star">*</span></label>
+                                    									<input type="text" class="span12" name="empresa" value=''>
+								</div>
+								<div  class="wrapper">
+									<label>Ciudad<span class="star">*</span></label>
+                                        									<input type="text" class="span12" name="ciudad" value=''>
+								</div>
+                                <div  class="wrapper">
+                                    <label>Email<span class="star">*</span></label>
+                                    									<input type="text" class="span12" name="email" value=''>
+								</div>
+								<div  class="textarea_box">
+									<label>Mensaje<span class="star">*</span></label>
+                                                                        <textarea name="mensaje" class="span12"></textarea>
+								</div>
+                                <div class="wrapper">
+                                <input type="submit" value="Enviar" class="btn btn-large" name="boton">                                </div>
+                                
+							</div>
+						</form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+        
+ 
+		<!-- ========== MAP BOX ========== -->
+	<section id="container">
+    	<img src="images/innovatemap.jpg" alt="Vis�tanos" width="100%" height="400">
+		
+	</section>
+
+        <!-- ========== FOOTER ========== -->
+ 		<footer>
+        	<div class="container">
+                    <div class="row-fluid">
+                    	<div class="span4">
+                    		<img src="images/logo.png" alt="Innovate" />
+                            Q�EME DPW(R) 2014.
+  						</div>
+                        <div class="span4 text-right">
+                    		<ul class="unstyled inline social">
+                        	<li>Calle 20 N�19-33 barrio San Francisco</li>
+                            <li>(57)(7) 690 7117 - 642 5069</li>
+                            <li>317 377 2716 </li>
+                    		</ul>
+  						</div>
+                        <div class="span4 text-right">
+                    		<ul class="unstyled inline social">
+                            <li>innovate_publicidad@hotmail.com</li>
+                            <li><a data-placement="top" title="FaceBook" class="zocial facebook" href="https://www.facebook.com/innovateadhesivospublicidad"></a></li>
+                    		</ul>
+  						</div>
+                    </div> 
+			</div>
+        </footer>
+
+
+        <script src='js/funciones.js'></script>
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.2.min.js"><\/script>')</script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+
+        <script src="js/plugins.js"></script>
+        <script src="js/jquery.touchSwipe.min.js"></script>
+        <script src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
+        <script src="js/jquery.isotope.min.js"></script>
+        <script src="js/scrollTo.min.js"></script>
+        <script src="js/fresco.js"></script>
+        <script src="js/jquery.debouncedresize.js"></script>
+        <script src="js/jquery.throttledresize.js"></script>
+        <script src="js/gmap.js"></script>
+        <script src="http://maps.google.com/maps/api/js?sensor=true&amp;language=en"></script>
+        <script src="js/main.js"></script>
+
+	<script type="text/javascript" src="js/jquery-mb-gallery/mb.bgndgallery.js"></script>
+	<script>App.start();</script>
+        
+    </body>
+</html>
